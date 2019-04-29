@@ -972,7 +972,7 @@ a.move-top span{
 }
 @media(max-width:415px) {
     .navbar {
-		padding: .5em 0em;
+		padding: 2em 0em;
 	}
 	h1.footer-logo a {
 		font-size: 0.7em;
