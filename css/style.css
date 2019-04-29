@@ -852,7 +852,7 @@ a.move-top span{
 }
 @media(max-width:736px) {
     .about .col-lg-5 img {
-		width: 80%;
+		width: 100%;
 	}
 	.panel-thumbnail img {
 		width: 100px;
